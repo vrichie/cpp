@@ -7,9 +7,6 @@ class AbstractEmployee {
     virtual void AskForPromotion()=0;
 };
 
-
-
-
 class Employee:AbstractEmployee
 {
 private:
