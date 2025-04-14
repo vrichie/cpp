@@ -70,7 +70,6 @@ public:
     }
 };
 
-
 // inheritance
 //public is used to ensure employee methods are accessible outside the class
 class Developer:public Employee{
